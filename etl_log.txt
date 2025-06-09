@@ -1,0 +1,10 @@
+------------------------------ 
+[Mon 06/09/2025 21:43:28.90] Running ETL... 
+True
+DB_NAME: crypto
+DB_USER: postgres
+DB_PASS: 123456
+DB_HOST: localhost
+CMC_API_KEY: 53b1139d-5542-41f4-870d-8694df01e70a
+ETL process completed successfully!
+[Mon 06/09/2025 21:43:30.14] Finished ETL 
