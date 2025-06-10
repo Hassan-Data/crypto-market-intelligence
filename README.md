@@ -60,9 +60,7 @@ data = response.json()['data']
 
 ## 📊 Power BI Dashboard Highlights
 
-📍 *Screenshot below from actual dashboard*
 
-![Dashboard Preview](./powerbi/dashboard-screenshot.png)
 
 **Visualizations Include:**
 - 🔝 Bar chart: Top 10 coins by Market Cap
